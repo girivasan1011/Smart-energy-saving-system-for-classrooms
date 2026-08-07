@@ -242,6 +242,10 @@ Bachelor of Engineering (Electrical and Electronics Engineering)
 
 Embedded Systems | STM32 | IoT | EV Technology
 
+Output:
+<img width="960" height="1280" alt="WhatsApp Image 2026-08-07 at 2 48 09 PM" src="https://github.com/user-attachments/assets/1ca35fc8-af7b-454f-84f1-b5a86893b970" />
+
+
 ---
 
 ## License
